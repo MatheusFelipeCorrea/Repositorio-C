@@ -1,0 +1,2 @@
+## Descrição
+Este programa em C tem como função exibir todos os números primos dentro de um intervalo definido pelo usuário, até o número N. Ao solicitar que o usuário declare um valor para N, o programa identifica e mostra todos os números primos presentes nesse intervalo. Essa ferramenta é útil para explorar e compreender os conceitos de números primos, oferecendo uma abordagem interativa e prática para sua identificação dentro de um intervalo específico.
